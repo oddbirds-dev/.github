@@ -20,7 +20,7 @@ We’re a small team of designers, developers, and problem-solvers who care abou
 
 ### Explore more
 
-- [Website](https://oddbirds.net)
+- [Website](https://oddbirds.dev)
 - [GitHub](https://github.com/oddbirds-dev)
 - [Open source work](https://github.com/oddbirds-dev)
 
